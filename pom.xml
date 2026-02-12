@@ -8,7 +8,7 @@
     <name>Spring4MVCAngularJSExample</name>
 
     <properties>
-        <springframework.version>7.0.3</springframework.version>
+        <springframework.version>7.0.4</springframework.version>
         <jackson.version>2.21.0</jackson.version>
     </properties>
 
